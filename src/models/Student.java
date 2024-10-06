@@ -21,7 +21,7 @@ public class Student extends People{
 		System.out.println("Hello, my name is " + getName());
 		System.out.println("I am " + getAge() + " Years old");
 		System.out.println("I am a Student");
-		System.out.println("My salary " + getGpa());
+		System.out.println("My GPA " + getGpa());
 	}
 	
 }
